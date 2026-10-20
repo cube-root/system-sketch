@@ -1,0 +1,7 @@
+node_modules
+dist
+package-lock.json
+public/excalidraw-assets
+src/data/brand-icons.json
+playwright-report
+test-results
